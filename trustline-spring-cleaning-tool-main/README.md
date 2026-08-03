@@ -1,4 +1,4 @@
-# Trustline Spring Cleaning Tool
+# SulatLinis Trustlines
 
 Trustline Spring Cleaning Tool addresses this by turning the workflow into a Stellar testnet record with clear state transitions. Everyday payment workflows need wallet-native settlement, verifiable records, and simple testnet onboarding.
 
